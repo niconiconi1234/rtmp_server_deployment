@@ -1,0 +1,3 @@
+[submodule "rtmp_auth_server"]
+	path = rtmp_auth_server
+	url = https://github.com/niconiconi1234/rtmp_auth_server.git
